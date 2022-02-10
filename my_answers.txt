@@ -5,5 +5,9 @@ asdfasfdsafsdf
 asdf ddfdf
 =======
 more lines
+<<<<<<< HEAD
 >>>>>>> 16af681b504dd508ea2ddae7f02c4e672bf88cd1
 locally added
+=======
+even more lines
+>>>>>>> d8bdfe9d8b30a476d5695e3f6e62c76749c49bef
