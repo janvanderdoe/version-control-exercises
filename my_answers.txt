@@ -1,4 +1,9 @@
 asdfasfd
 asfasdf
 asdfasfdsafsdf
+<<<<<<< HEAD
 asdf ddfdf
+=======
+more lines
+>>>>>>> 16af681b504dd508ea2ddae7f02c4e672bf88cd1
+locally added
